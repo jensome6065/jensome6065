@@ -1,16 +1,17 @@
 name: Generate Datas
 on:
   schedule: 
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - uses: Platane/snk@master
         id: snake-gif
-with:
+        with:
           github_user_name: jensome6065
           svg_out_path: dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v2.1.3
