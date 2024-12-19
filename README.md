@@ -1,9 +1,9 @@
 ### hi
 👋 my name is Jennifer Ye <br/>
-👩 pronouns: she/they <br/>
 🌱 I'm studying CS @ UMass Commonwealth Honors College <br/>
 🌐 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jenniferye1t) <br/>
 ⚡ fun fact: I learned Java and C before Python <br/>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21dkai4g7dz3cfcjfj4z6f47q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 # 🔭 Projects:
 Some of the projects I've worked on include:
@@ -22,6 +22,6 @@ Some of the projects I've worked on include:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jensome6065&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jensome6065&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200">
-</div>
+</div> <br/>
+
 ![snake](https://github.com/jensome6065/jensome6065/blob/output/github-contribution-grid-snake.svg)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21dkai4g7dz3cfcjfj4z6f47q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
