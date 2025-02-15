@@ -1,6 +1,14 @@
 ### hi
 👋 my name is Jennifer Ye <br/>
 🌱 I'm studying CS @ UMass Commonwealth Honors College <br/>
+
+
+
+
+
+
+
+
 🌐 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jenniferye1t) <br/>
 ⚡ fun fact: I learned Java and C before Python <br/>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21dkai4g7dz3cfcjfj4z6f47q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
