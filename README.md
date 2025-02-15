@@ -1,5 +1,29 @@
 ### hi
+# i love hackher2025
 👋 my name is Jennifer Ye <br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 🌱 I'm studying CS @ UMass Commonwealth Honors College <br/>
 🌐 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jenniferye1t) <br/>
 ⚡ fun fact: I learned Java and C before Python <br/>
