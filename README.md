@@ -74,12 +74,12 @@ some of the projects I've worked on include:
   <br>
   <img src="https://greptile-stats.vercel.app/api/widget/jensome6065/quirk" alt="Github Quirk"/>
 </p>
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <div style="display: flex; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jensome6065&show_icons=true&count_private=true&theme=radical" height="200">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jensome6065&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200">
-  </div>
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jensome6065&show_icons=true&count_private=true&theme=radical" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jensome6065&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200">
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/jensome6065/jensome6065/output/snake.svg">
 </p>
