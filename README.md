@@ -13,7 +13,6 @@ some of the projects I've worked on include:
 - **Competitive Robotics Codebase** *(Java)*: Contributed to StuyPulse's FIRST FRC autonomous robot code, earning 5 awards.
 - **Financial Literacy Platform** *(JavaScript, Pug, HTML/CSS)*: Built a social media website with real-time stock market data integration via API; demonstrated it to 30+ Google professionals.
 - **AI-Powered Food Visualizer** *(TypeScript, JavaScript)*: Coded an iOS simulator that analyzes macronutrients via food image recognition and dietary tracking.
-- **Fireboy and Watergirl** *(Processing)*: Reimagined the iconic platform game by implementing advanced physics and gravity mechanics.
 - **Hack(H)er413 Dashboard** *(Ruby, Ruby on Rails, Docker, Heroku)*: Deployed a website and hackathon dashboard that handles new accounts, registrations, winners, and prizes.
 
 # 💻 tech stack:
