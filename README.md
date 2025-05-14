@@ -1,19 +1,10 @@
-### hi
+### hello, world!
 👋 my name is Jennifer Ye <br/>
 🌱 I'm studying CS @ UMass Commonwealth Honors College <br/>
 🌐 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jenniferye1t) <br/>
 ⚡ fun fact: I learned Java and C before Python <br/>
+🔭 ask me about my projects! <br/>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21dkai4g7dz3cfcjfj4z6f47q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-# 🔭 projects:
-some of the projects I've worked on include:
-- **Shell** *(C, Make)*: Designed a Linux shell featuring command execution, I/O redirection, piping, process management, and job control.
-- **Music Library** *(C, Make)*: Developed an interactive music library application with TCP client-server architecture for simultaneous user sessions and real-time playlist management.
-- **UNO** *(Python, tkinter)*: Reconstructed the classic UNO card game, integrating unique power-ups and custom gameplay mechanics.
-- **Competitive Robotics Codebase** *(Java)*: Contributed to StuyPulse's FIRST FRC autonomous robot code, earning 5 awards.
-- **Financial Literacy Platform** *(JavaScript, Pug, HTML/CSS)*: Built a social media website with real-time stock market data integration via API; demonstrated it to 30+ Google professionals.
-- **AI-Powered Food Visualizer** *(TypeScript, JavaScript)*: Coded an iOS simulator that analyzes macronutrients via food image recognition and dietary tracking.
-- **Hack(H)er413 Dashboard** *(Ruby, Ruby on Rails, Docker, Heroku)*: Deployed a website and hackathon dashboard that handles new accounts, registrations, winners, and prizes.
 
 # 💻 tech stack:
 <div style="display: flex; justify-content: center;">
