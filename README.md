@@ -55,15 +55,12 @@
 
 # 📊 github stats:
 <p align="center">
-  <img src="https://greptile-stats.vercel.app/api/widget/jensome6065/private-stats" alt="Github Stats"/>
-  <br>
   <img src="https://greptile-stats.vercel.app/api/widget/jensome6065/archtype" alt="Github Archetype"/>
   <br>
   <img src="https://greptile-stats.vercel.app/api/widget/jensome6065/quirk" alt="Github Quirk"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jensome6065&show_icons=true&count_private=true&theme=radical" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jensome6065&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180">
 </p>
 
