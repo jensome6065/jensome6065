@@ -3,10 +3,9 @@
 🌱 I'm studying CS @ UMass Commonwealth Honors College <br/>
 🌐 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jenniferye1t) <br/>
 ⚡ fun fact: I learned Java and C before Python <br/>
-🔭 ask me about my projects! <br/>
+🔭 ask me what I'm working on! <br/>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21dkai4g7dz3cfcjfj4z6f47q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-# 💻 tech stack:
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; align-items: flex-start;">
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="64" height="64" />
@@ -52,17 +51,6 @@
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-# 📊 github stats:
-<p align="center">
-  <img src="https://greptile-stats.vercel.app/api/widget/jensome6065/archtype" alt="Github Archetype"/>
-  <br>
-  <img src="https://greptile-stats.vercel.app/api/widget/jensome6065/quirk" alt="Github Quirk"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jensome6065&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180">
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jensome6065/jensome6065/output/snake.svg">
