@@ -1,7 +1,7 @@
 # hello, world.
 
-experiences in full-stack dev, robotics, consulting, & business systems \
-research in quant, aigc, reinforcement learning, & sneaker culture </br> 
+experiences in full-stack dev, robotics, consulting, nonprofits, & business systems \
+research in quant, aigc, reinforcement learning, blockchain, & sneaker culture </br> 
 
 </br>
 
